@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Freezer",
+      "price": "50",
+      "image": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/19932225_1/w=800,h=800,fit=pad",
+      "id": "1"
+    },
+    {
+      "name": "Godzilla",
+      "price": "25",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_618122-CBT80865387502_122024-O.webp",
+      "id": "2"
+    },
+    {
+      "name": "Wonder Woman",
+      "price": "35",
+      "image": "https://th.bing.com/th/id/OIP.uzRnHH7jxocZjEai7sD2RAHaHa?rs=1&pid=ImgDetMain",
+      "id": "3"
+    },
+    {
+      "name": "Baby Yoda",
+      "price": "45",
+      "image": "https://toogeek.co/wp-content/uploads/2020/12/889698509633-300x300.jpeg",
+      "id": "5"
+    },
+    {
+      "name": "Rhaenyra Targaryen",
+      "price": "20",
+      "image": "https://toogeek.co/wp-content/uploads/2024/12/889698797207-500x500.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Llavero Sauron",
+      "price": "50",
+      "image": "https://toogeek.co/wp-content/uploads/2024/05/3665361089100-300x300.jpg",
+      "id": "7"
+    },
+    {
+      "name": "Capitana Marvel",
+      "price": "25",
+      "image": "https://www.cartonionline.com/wordpress/wp-content/uploads/2023/12/31LN638-E4L._SL500_.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Mario Bros",
+      "price": "35",
+      "image": "https://resources.claroshop.com/medios-plazavip/s2/10178/682885/5aaaf75e222f0-figura-amiibo-mario-bros-serie-super-mario-nintendo-wii-u-d_nq_np_567515-mlm25247906516_122016-f-1600x1600.jpg",
+      "id": "9"
+    }
+  ]
+}
